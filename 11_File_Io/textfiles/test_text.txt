@@ -1,0 +1,10 @@
+Hello.
+This is testing text for 
+encryption and decryption 
+of the data of a file . 
+-------------------------
+H ll .
+   s  s t st ng t xt f r 
+ ncrypt  n  nd d crypt  n 
+ f     d t   f   f l  . 
+-------------------------

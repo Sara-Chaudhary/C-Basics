@@ -1,0 +1,22 @@
+This is a sample text file.
+This is a sample text file.
+----------------------------
+This is a sample text file.
+You can imagine a possibility 
+when the buffer may become 
+full before we close the file.
+----------------------------
+THIS IS A SAMPLE TEXT FILE.
+YOU CAN IMAGINE A POSSIBILITY 
+WHEN THE BUFFER MAY BECOME 
+FULL BEFORE WE CLOSE THE FILE.
+----------------------------
+This is a sample text file.
+You can imagine a possibility 
+when the buffer may become 
+full before we close the file.
+----------------------------
+THIS IS A SAMPLE TEXT FILE.
+YOU CAN IMAGINE A POSSIBILITY 
+WHEN THE BUFFER MAY BECOME 
+FULL BEFORE WE CLOSE THE FILE.

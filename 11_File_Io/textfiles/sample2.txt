@@ -1,0 +1,5 @@
+----------------------------
+This is a sample text file.
+You can imagine a possibility 
+when the buffer may become 
+full before we close the file.

@@ -1,0 +1,27 @@
+Encrypted Form:
+Pmttw6\pq{(q{(|m{|qvo(|mÔøΩ|(nwz(mvkzÔøΩx|qwv(ivl(lmkzÔøΩx|qwv(wn(|pm(li|i(wn(i(nqtm(6(5555555555555555555555555
+
+Decrypted form:
+Hello.
+This is testing text for 
+encryption and decryption 
+of the data of a file . 
+-------------------------
+Encrypted Form:
+Pmttw6\pq{(q{(|m{|qvo(|mÄ|(nwz(mvkzÅx|qwv(ivl(lmkzÅx|qwv(wn(|pm(li|i(wn(i(nqtm(6(5555555555555555555555555
+
+Decrypted form:
+Hello.
+This is testing text for 
+encryption and decryption 
+of the data of a file . 
+-------------------------
+Encrypted Form:
+Pmttw6\pq{(q{(|m{|qvo(|mÄ|(nwz(mvkzÅx|qwv(ivl(lmkzÅx|qwv(wn(|pm(li|i(wn(i(nqtm(6(5555555555555555555555555
+
+Decrypted form:
+Hello.
+This is testing text for 
+encryption and decryption 
+of the data of a file . 
+-------------------------
